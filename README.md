@@ -25,7 +25,7 @@
 
 <div dir="ltr">
  
- e **السلام عليكم ورحمة الله وبركاته، (تحية من عند الله مباركة طيبة)** 
+ e **السلام عليكم ورحمة الله وبركاته، (تحية من عند الله مباركة طيبة)** <br>
 **Peace Be Upon You and God's Mercy and Blessings** (A Blessed and Good Greeting from Allah)
 
 - **Welcome! This is My Page on GitHub.**
