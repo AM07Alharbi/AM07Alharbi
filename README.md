@@ -12,7 +12,7 @@
     + **حركة الحشود والمرور (مثال: نموذج هيوز وَ نموذج LWR)**
     + **معادلات تفاضلية جزئية**
     + **التحليل الدالي والتحليل الحقيقي**
- - اهتمامات:
+ - اهتمامات عامة:
    * **تفسير القرآن العظيم**
    * **السنة ومسائل التوحيد والعقيدة**
    * **الملل والنحل**
@@ -39,7 +39,7 @@
     + **Crowd and Traffic Movement (e.g., Hughes Model & LWR Model)**
     + **Partial Differential Equations**
     + **Functional Analysis and Real Analysis**
-- **Interests**:
+- ** General Interests**:
   * **Interpretation of the Noble Quran**
   * **Hadith and Matters of Tawheed and Aqeedah**
   * **Religions and Sects**
