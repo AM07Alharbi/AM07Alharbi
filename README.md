@@ -2,15 +2,21 @@
 **السلام عليكم ورحمة الله وبركاته، (تحية من عند الله مباركة طيبة)**
 
 - حياكم الله. هذي صفحتي على الـ"غِتهَب".
-- الاسم: **عبدالرحمن الحربي**
+- الاسم: **عبدالرحمن الحربي** (@AM07Alharbi)
 - الانتساب
   * **الجامعة الإسلامية بالمدينة المنورة** (معيد)
   * **جامعة الملك عبدالله للعلوم والتقنية** (طالب دكتوراه)
 - التخصص:
   * **الرياضيات التطبيقية**:
     + **ألعاب المجال المتوسط**
+    + **حركة الحشود والمرور (مثال: نموذج هيوز وَ نموذج LWR)**
     + **معادلات تفاضلية جزئية**
     + **التحليل الدالي والتحليل الحقيقي**
+ - اهتمامات:
+   * تفسير القرآن العظيم
+   * السنة ومسائل التوحيد والعقيدة
+   * برامج المصادر المفتوح
+   * ال
 
 <div dir="ltr">
  **السلام عليكم ورحمة الله وبركاته، (تحية من عند الله مباركة طيبة)**
@@ -18,23 +24,21 @@
 **Peace Be Upon You and God's Mercy and Blessings** (A Blessed and Good Greeting from Allah)
 
 - **Welcome! This is My Page on GitHub.**
-- **Name**: Abdulrahman Al-Harbi
+- **Name**: AbdurRahman Al-Harbi (@AM07Alharbi)
 - **Affiliation**:
-  * **Islamic University of Madinah** (Teaching Assistant)
-  * **King Abdullah University of Science and Technology** (PhD Student)
+  * **The Islamic University of Madinah** (Teaching Assistant)
+  * **King Abdullah University of Science and Technology (KAUST)** (PhD Student)
 - **Specialization**:
   * **Applied Mathematics**:
-    + **Intermediate Field Games**
+    + **Mean-Field Games**
     + **Partial Differential Equations**
     + **Functional Analysis and Real Analysis**
 </div>
 
-- 👋 Hi, I’m @AM07Alharbi
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: uncle,
 - ⚡ Fun fact: ...
 
 <!---
