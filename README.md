@@ -49,7 +49,7 @@
   * **Humor**
 </div>
 
-| **عناوين التواصل** | **contact addresses** |
+| **contact addresses** | **عناوين التواصل** |
 |--------------------|---------------------|
 | a.m.alharbi AT iu DOT edu DOT sa | abdulRahman.alharbi AT kaust DOT edu DOT sa|
 
