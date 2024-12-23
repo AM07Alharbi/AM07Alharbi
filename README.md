@@ -47,8 +47,12 @@
   * **Arabic Calligraphy**
   * **Puzzles**
   * **Humor**
-    
 </div>
+
+| **عناوين التواصل** | **contact addresses** |
+|--------------------|---------------------|
+| a.m.alharbi AT iu DOT edu DOT sa | abdulRahman.alharbi AT kaust DOT edu DOT sa|
+
 
 <!---
 AM07Alharbi/AM07Alharbi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
