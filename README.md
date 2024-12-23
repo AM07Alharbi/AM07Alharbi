@@ -13,12 +13,16 @@
     + **معادلات تفاضلية جزئية**
     + **التحليل الدالي والتحليل الحقيقي**
  - اهتمامات:
-   * تفسير القرآن العظيم
-   * السنة ومسائل التوحيد والعقيدة
-   * برامج المصادر المفتوح
-   * ال
+   * **تفسير القرآن العظيم**
+   * **السنة ومسائل التوحيد والعقيدة**
+   * **الملل والنحل**
+   * **اللغات**
+   * **الخط العربي**
+   * **الألغاز**
+   * **الطرفة والفكاهة**
 
 <div dir="ltr">
+ 
  **السلام عليكم ورحمة الله وبركاته، (تحية من عند الله مباركة طيبة)**
  
 **Peace Be Upon You and God's Mercy and Blessings** (A Blessed and Good Greeting from Allah)
@@ -31,15 +35,20 @@
 - **Specialization**:
   * **Applied Mathematics**:
     + **Mean-Field Games**
+    + **Crowd and Traffic Movement (e.g., Hughes Model & LWR Model)**
     + **Partial Differential Equations**
     + **Functional Analysis and Real Analysis**
+- **Interests**:
+  * **Interpretation of the Noble Quran**
+  * **Hadith and Matters of Tawheed and Aqeedah**
+  * **Religions and Sects**
+  * **Languages**
+  * **Arabic Calligraphy**
+  * **Puzzles**
+  * **Humor**
+    
 </div>
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: uncle,
-- ⚡ Fun fact: ...
 
 <!---
 AM07Alharbi/AM07Alharbi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
