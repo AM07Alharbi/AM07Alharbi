@@ -3,23 +3,19 @@
 
 - حياكم الله. هذي صفحتي على الـ"غِتهَب".
 - الاسم: **عبدالرحمن الحربي** (@AM07Alharbi)
-- الانتساب
-  * **الجامعة الإسلامية بالمدينة المنورة** (معيد)
-  * **جامعة الملك عبدالله للعلوم والتقنية** (طالب دكتوراه)
-- التخصص:
-  * **الرياضيات التطبيقية**:
-    + **ألعاب المجال المتوسط**
-    + **حركة الحشود والمرور (مثال: نموذج هيوز وَ نموذج LWR)**
-    + **معادلات تفاضلية جزئية**
+  * **معيد بالجامعة الإسلامية بالمدينة المنورة**
+  * **طالب دكتوراه بجامعة الملك عبدالله للعلوم والتقنية**
+- التخصص: **الرياضيات التطبيقية**
+  * **الاهتمامات البحثية**:
+    + **ألعاب المجال المتوسط / ألعاب الكثافة العالية**
+    + **حنماذج سريان الحشود وحركة المرور (كنموذج هيوز وَ نموذج LWR)**
+    + **المعادلات التفاضلية الجزئية**
     + **التحليل الدالي والتحليل الحقيقي**
  - اهتمامات عامة:
    * **تفسير القرآن العظيم**
-   * **السنة ومسائل التوحيد والعقيدة**
-   * **الملل والنحل**
-   * **اللغات**
-   * **الخط العربي**
-   * **الألغاز**
-   * **الطرفة والفكاهة**
+   * **علوم الحديث والتوحيد والعقيدة**
+   * **االلغات وفنون الخط العربي**
+   * **الألغاز والظرفة والفكاهة**
 
 
 
@@ -30,23 +26,19 @@
 
 - **Welcome! This is My Page on GitHub.**
 - **Name**: AbdurRahman Al-Harbi (@AM07Alharbi)
-- **Affiliation**:
-  * **The Islamic University of Madinah** (Teaching Assistant)
-  * **King Abdullah University of Science and Technology (KAUST)** (PhD Student)
-- **Specialization**:
-  * **Applied Mathematics**:
-    + **Mean-Field Games**
-    + **Crowd and Traffic Movement (e.g., Hughes Model & LWR Model)**
+  * **Teaching Assistant at The Islamic University of Madinah**
+  * **PhD Student at King Abdullah University of Science and Technology** 
+- **Specialization**: Applied Mathematics:
+  * **Research Interests**:
+    + **Mean-Field Games and Their Applications**
+    + **CCrowd Dynamics and Traffic Flow (e.g., Hughes Model & LWR Model)**
     + **Partial Differential Equations**
     + **Functional Analysis and Real Analysis**
 - ** General Interests**:
   * **Interpretation of the Noble Quran**
-  * **Hadith and Matters of Tawheed and Aqeedah**
-  * **Religions and Sects**
-  * **Languages**
-  * **Arabic Calligraphy**
-  * **Puzzles**
-  * **Humor**
+  * **Science of Hadith and Matters of Tawheed and Religious Doctrine**
+  * **Language and the art of Arabic Calligraphy**
+  * **Puzzles and Humor**
 </div>
 
 | **contact addresses** | **عناوين التواصل** |
